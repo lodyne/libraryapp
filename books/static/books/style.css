@@ -1,0 +1,23 @@
+body {
+    background-color: #FFCC33;
+    color: #000000;
+}
+
+.navbar .navbar-light {
+    background-color: #FF0033;
+}
+
+.nav-brand {
+    background-color: #FFCC33;
+    color: #000000;
+    border-width: 10px;
+    border-color: #FFCC33;
+    border-style: solid;
+    border-spacing: 30px;
+    border-radius: 5px;
+}
+
+.navbar-link .btn-lg {
+    background-color: #FFCC33;
+    color: #000000;
+}
